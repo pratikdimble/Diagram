@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T12:26:57.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="h4TmbCM2rTJy1VdBkYqg" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-22T04:40:49.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GnWLu2yJi7Tnq3Etm3cT" version="16.6.1" type="github" pages="2">
   <diagram id="QUmrNaxIJSpwvkwE0ti-" name="Page-1">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="KlVxBdfIRGBqD3L2uaC5-2" value="Abhishek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="esXycdXrPblHGuvkgUnI-1">
           <mxGeometry x="680" y="195" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9XhmMKuScYcgZ-HEILA1-0" value="Buyout Price" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="esXycdXrPblHGuvkgUnI-1">
+          <mxGeometry x="360" y="193" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
